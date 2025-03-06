@@ -8,8 +8,6 @@ public class IntArray{
     public IntArray(int l){
         length = l;
         myArray = new int [l];
-    }
-    public IntArray(){
         toString();
     }
     //set
